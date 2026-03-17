@@ -110,9 +110,3 @@ Pipes:
 ## 👩‍💻 Author
 
 Aastha Patel
-
-
----
-
-Now this will **render perfectly on GitHub** without any formatting issues 👍
-```
